@@ -1,6 +1,6 @@
 [submodule "osal"]
 	path = osal
-	url = ../osal.git
+	url = https://github.com/thuan1091996/osal.git
 [submodule "3rd-party/lwmem"]
 	path = 3rd-party/lwmem
-	url = ../lwmem.git
+	url = https://github.com/thuan1091996/lwmem.git
